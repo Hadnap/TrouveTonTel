@@ -9,3 +9,4 @@ Just tap the "Locate" button, and the app tells you where your phone is!
 * Design
 * More answers
 * Add ads to make money
+* Add more useful features (map, sonar, sound detector)
